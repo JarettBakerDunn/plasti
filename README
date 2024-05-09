@@ -43,8 +43,6 @@ a function of the coordinates, coord_1, coord_2, coord_3, etc. has the
 coordinates for that time step, and stress_xx_1 has the stress at
 those coordinates.
 
-Please send all bugs to 
-
-  cig-long@geodynamics.org
+Please report bugs by opening an issue on the geodynamics/plasti repository.
 
 Enjoy!
