@@ -44,8 +44,8 @@ coordinates for that time step, and stress_xx_1 has the stress at
 those coordinates.
 
 Please report bugs by opening an issue on the geodynamics/plasti repository.
-Questions about the software should be directed to the CIG forum located here:
 
+Questions about the software should be directed to the CIG forum located here:
 https://community.geodynamics.org/
 
 Enjoy!
